@@ -1,2 +1,12 @@
 # school_district_analysis
-## frist test
+## The written analysis has the following structure, organization, and formatting:
+### There is a title, and there are multiple sections (2 pt).
+#### Each section has a heading and subheading (3 pt).
+##### Links to images are working, and code is formatted and displayed correctly (2 pt).
+###### The written analysis has the following:
+# Overview of the school district analysis:
+## The purpose of this analysis is well defined (3 pt).
+Results:
+### There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
+# Summary:
+## There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt). after atempting to fix the code my code broke thus im submitting what i have not knowing the results of my analysis. 
